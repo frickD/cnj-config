@@ -1,1 +1,4 @@
-cnj.info.message:OK - Server verwendet DEV Konfiguration.
+cnj:
+    info:
+        message: Server verwendet DEV Konfiguration!
+

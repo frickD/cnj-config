@@ -1,1 +1,4 @@
-cnj.info.message:OK - Server verwendet Konfiguration aus der Cloud.
+cnj:
+    info:
+        message: Server verwendet Konfiguration aus der Cloud!
+
